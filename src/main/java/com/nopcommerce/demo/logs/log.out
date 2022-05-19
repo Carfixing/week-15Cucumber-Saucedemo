@@ -1,0 +1,151 @@
+2022-05-18 14:05:805 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:316 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 23:05:364 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 23:05:771 INFO  HomePage :36 - enter username 
+2022-05-18 23:05:36 INFO  HomePage :40 - enter password 
+2022-05-18 23:05:189 INFO  HomePage :49 - click on login button 
+2022-05-18 23:05:477 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 23:05:961 INFO  HomePage :36 - enter username 
+2022-05-18 23:05:206 INFO  HomePage :40 - enter password 
+2022-05-18 23:05:585 INFO  HomePage :49 - click on login button 
+2022-05-18 23:05:972 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 23:05:314 INFO  HomePage :36 - enter username 
+2022-05-18 23:05:530 INFO  HomePage :40 - enter password 
+2022-05-18 23:05:779 INFO  HomePage :49 - click on login button 
+2022-05-18 23:05:562 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 23:05:588 INFO  HomePage :36 - enter username 
+2022-05-18 23:05:148 INFO  HomePage :40 - enter password 
+2022-05-18 23:05:522 INFO  HomePage :49 - click on login button 
+2022-05-18 23:05:860 INFO  ProductPage :26 - sort the product High To LowPrice (high to low)
+2022-05-18 23:05:445 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 23:05:798 INFO  HomePage :36 - enter username 
+2022-05-18 23:05:138 INFO  HomePage :40 - enter password 
+2022-05-18 23:05:356 INFO  HomePage :49 - click on login button 
+2022-05-18 23:05:778 INFO  ProductPage :34 - Click on dropdown menuNAME (A TO Z)
+Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-18 23:05:956 INFO  ProductPage :43 - sort the product High To LowPrice (high to low)
+2022-05-19 00:05:940 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 00:05:608 INFO  HomePage :36 - enter username 
+2022-05-19 00:05:242 INFO  HomePage :40 - enter password 
+2022-05-19 00:05:426 INFO  HomePage :49 - click on login button 
+2022-05-19 00:05:723 INFO  ProductPage :34 - Click on dropdown menuNAME (A TO Z)
+Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-19 00:05:811 INFO  ProductPage :43 - sort the product High To LowPrice (high to low)
+2022-05-19 00:05:89 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 00:05:12 INFO  HomePage :36 - enter username 
+2022-05-19 00:05:258 INFO  HomePage :40 - enter password 
+2022-05-19 00:05:438 INFO  HomePage :49 - click on login button 
+2022-05-19 00:05:668 INFO  ProductPage :34 - Click on dropdown menuNAME (A TO Z)
+Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-19 00:05:879 INFO  ProductPage :39 - sort the product High To LowPrice (high to low)
+2022-05-19 00:05:572 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 00:05:978 INFO  HomePage :36 - enter username 
+2022-05-19 00:05:188 INFO  HomePage :40 - enter password 
+2022-05-19 00:05:376 INFO  HomePage :49 - click on login button 
+2022-05-19 00:05:616 INFO  ProductPage :46 - select job type list[[[ChromeDriver: chrome on WINDOWS (7714e8f9f0215812fe02dfb7f2ef6d40)] -> xpath: //select[@class='product_sort_container']]]
+2022-05-19 00:05:339 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 00:05:438 INFO  HomePage :36 - enter username 
+2022-05-19 00:05:678 INFO  HomePage :40 - enter password 
+2022-05-19 00:05:994 INFO  HomePage :49 - click on login button 
+2022-05-19 00:05:465 INFO  ProductPage :33 - select from dropdown list[[[ChromeDriver: chrome on WINDOWS (2f46c1f7bc4311c208da0a7d1bca8508)] -> xpath: //select[@class='product_sort_container']]]
+2022-05-19 00:05:638 INFO  ProductPage :41 - select the product and add to cartADD TO CART
+2022-05-19 01:05:311 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 01:05:356 INFO  HomePage :36 - enter username 
+2022-05-19 01:05:598 INFO  HomePage :40 - enter password 
+2022-05-19 01:05:950 INFO  HomePage :49 - click on login button 
+2022-05-19 01:05:326 INFO  ProductPage :36 - select from dropdown list[[[ChromeDriver: chrome on WINDOWS (9fe321f78668dc82e1ef087ba2a87220)] -> xpath: //select[@class='product_sort_container']]]
+2022-05-19 01:05:476 INFO  ProductPage :44 - select the product and add to cartADD TO CART
+2022-05-19 01:05:467 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 01:05:720 INFO  HomePage :36 - enter username 
+2022-05-19 01:05:860 INFO  HomePage :40 - enter password 
+2022-05-19 01:05:50 INFO  HomePage :49 - click on login button 
+2022-05-19 01:05:499 INFO  ProductPage :36 - select from dropdown list[[[ChromeDriver: chrome on WINDOWS (2b73df7975c25a93ad1191a80bd285d2)] -> xpath: //select[@class='product_sort_container']]]
+2022-05-19 01:05:671 INFO  ProductPage :44 - select the product and add to cartADD TO CART
+2022-05-19 01:05:278 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 01:05:663 INFO  HomePage :36 - enter username 
+2022-05-19 01:05:812 INFO  HomePage :40 - enter password 
+2022-05-19 01:05:984 INFO  HomePage :49 - click on login button 
+2022-05-19 01:05:400 INFO  ProductPage :36 - select from dropdown list[[[ChromeDriver: chrome on WINDOWS (bd8c6624a20140378afaa2fd05f3df33)] -> xpath: //select[@class='product_sort_container']]]
+2022-05-19 01:05:651 INFO  ProductPage :44 - select the product and add to cartADD TO CART
+2022-05-19 01:05:749 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 01:05:11 INFO  HomePage :36 - enter username 
+2022-05-19 01:05:187 INFO  HomePage :40 - enter password 
+2022-05-19 01:05:475 INFO  HomePage :49 - click on login button 
+2022-05-19 01:05:881 INFO  ProductPage :36 - select from dropdown list[[[ChromeDriver: chrome on WINDOWS (686e56eff9076d13ed396066f5b6e400)] -> xpath: //select[@class='product_sort_container']]]
+2022-05-19 01:05:64 INFO  ProductPage :44 - select the product and add to cartADD TO CART
+2022-05-19 01:05:01 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 01:05:929 INFO  HomePage :36 - enter username 
+2022-05-19 01:05:147 INFO  HomePage :40 - enter password 
+2022-05-19 01:05:457 INFO  HomePage :49 - click on login button 
+2022-05-19 01:05:881 INFO  ProductPage :36 - select from dropdown list[[[ChromeDriver: chrome on WINDOWS (52c035b611cdc69246efadfcb0d66773)] -> xpath: //select[@class='product_sort_container']]]
+2022-05-19 01:05:34 INFO  ProductPage :44 - select the product and add to cartADD TO CART
+2022-05-19 01:05:534 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 01:05:377 INFO  HomePage :36 - enter username 
+2022-05-19 01:05:571 INFO  HomePage :40 - enter password 
+2022-05-19 01:05:859 INFO  HomePage :49 - click on login button 
+2022-05-19 01:05:305 INFO  ProductPage :36 - select from dropdown list[[[ChromeDriver: chrome on WINDOWS (88bb9cb6d21093783c4e8231629ec8de)] -> xpath: //select[@class='product_sort_container']]]
+2022-05-19 01:05:454 INFO  ProductPage :44 - select the product and add to cartADD TO CART
+2022-05-19 01:05:650 INFO  ProductPage :48 - open shopping cart1
+2022-05-19 01:05:808 INFO  CheckOutPage :37 - go to check out and open CHECKOUT
+2022-05-19 01:05:23 INFO  CheckOutPage :41 - enter first name
+2022-05-19 01:05:132 INFO  CheckOutPage :45 - enter first name
+2022-05-19 01:05:260 INFO  CheckOutPage :49 - enter zipCode 
+2022-05-19 01:05:362 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 01:05:968 INFO  HomePage :36 - enter username 
+2022-05-19 01:05:171 INFO  HomePage :40 - enter password 
+2022-05-19 01:05:349 INFO  HomePage :49 - click on login button 
+2022-05-19 01:05:747 INFO  ProductPage :36 - select from dropdown list[[[ChromeDriver: chrome on WINDOWS (33b4fc7daaef21af02770523bd3f1fb9)] -> xpath: //select[@class='product_sort_container']]]
+2022-05-19 01:05:12 INFO  ProductPage :44 - select the product and add to cartADD TO CART
+2022-05-19 01:05:182 INFO  ProductPage :48 - open shopping cart1
+2022-05-19 01:05:306 INFO  CheckOutPage :41 - go to check out and open CHECKOUT
+2022-05-19 01:05:423 INFO  CheckOutPage :45 - enter first name
+2022-05-19 01:05:584 INFO  CheckOutPage :49 - enter first name
+2022-05-19 01:05:726 INFO  CheckOutPage :53 - enter zipCode 
+2022-05-19 01:05:835 INFO  CheckOutPage :57 - click on continue Button[[ChromeDriver: chrome on WINDOWS (33b4fc7daaef21af02770523bd3f1fb9)] -> xpath: //input[@id='continue']]
+2022-05-19 01:05:697 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 01:05:568 INFO  HomePage :36 - enter username 
+2022-05-19 01:05:711 INFO  HomePage :40 - enter password 
+2022-05-19 01:05:870 INFO  HomePage :49 - click on login button 
+2022-05-19 01:05:86 INFO  ProductPage :36 - select from dropdown list[[[ChromeDriver: chrome on WINDOWS (2f982e9f6271405dcd04119cd9103843)] -> xpath: //select[@class='product_sort_container']]]
+2022-05-19 01:05:277 INFO  ProductPage :44 - select the product and add to cartADD TO CART
+2022-05-19 01:05:528 INFO  ProductPage :48 - open shopping cart1
+2022-05-19 01:05:661 INFO  CheckOutPage :45 - go to check out and open CHECKOUT
+2022-05-19 01:05:803 INFO  CheckOutPage :49 - enter first name
+2022-05-19 01:05:909 INFO  CheckOutPage :53 - enter first name
+2022-05-19 01:05:65 INFO  CheckOutPage :57 - enter zipCode 
+2022-05-19 01:05:259 INFO  CheckOutPage :61 - click on continue Button[[ChromeDriver: chrome on WINDOWS (2f982e9f6271405dcd04119cd9103843)] -> xpath: //input[@id='continue']]
+2022-05-19 01:05:185 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 01:05:48 INFO  HomePage :36 - enter username 
+2022-05-19 01:05:184 INFO  HomePage :40 - enter password 
+2022-05-19 01:05:306 INFO  HomePage :49 - click on login button 
+2022-05-19 01:05:719 INFO  ProductPage :36 - select from dropdown list[[[ChromeDriver: chrome on WINDOWS (4feebe9fbfce7167afca9e716c9f1704)] -> xpath: //select[@class='product_sort_container']]]
+2022-05-19 01:05:953 INFO  ProductPage :44 - select the product and add to cartADD TO CART
+2022-05-19 01:05:154 INFO  ProductPage :48 - open shopping cart1
+2022-05-19 01:05:275 INFO  CheckOutPage :49 - go to check out and open CHECKOUT
+2022-05-19 01:05:368 INFO  CheckOutPage :53 - enter first name
+2022-05-19 01:05:560 INFO  CheckOutPage :57 - enter first name
+2022-05-19 01:05:669 INFO  CheckOutPage :61 - enter zipCode 
+2022-05-19 01:05:744 INFO  CheckOutPage :65 - click on continue Button[[ChromeDriver: chrome on WINDOWS (4feebe9fbfce7167afca9e716c9f1704)] -> xpath: //input[@id='continue']]
+2022-05-19 01:05:812 INFO  CheckOutPage :69 - Verify text for Thenkyou [[ChromeDriver: chrome on WINDOWS (4feebe9fbfce7167afca9e716c9f1704)] -> xpath: //button[@id='finish']]
+2022-05-19 02:05:535 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 02:05:745 INFO  HomePage :36 - enter username 
+2022-05-19 02:05:948 INFO  HomePage :40 - enter password 
+2022-05-19 02:05:165 INFO  HomePage :49 - click on login button 
+2022-05-19 02:05:567 INFO  ProductPage :36 - select from dropdown list[[[ChromeDriver: chrome on WINDOWS (708046006901ce72a029caac173c1ca3)] -> xpath: //select[@class='product_sort_container']]]
+2022-05-19 02:05:995 INFO  ProductPage :44 - select the product and add to cartADD TO CART
+2022-05-19 02:05:117 INFO  ProductPage :48 - open shopping cart1
+2022-05-19 02:05:264 INFO  CheckOutPage :49 - go to check out and open CHECKOUT
+2022-05-19 02:05:397 INFO  CheckOutPage :53 - enter first name
+2022-05-19 02:05:561 INFO  CheckOutPage :57 - enter first name
+2022-05-19 02:05:745 INFO  CheckOutPage :61 - enter zipCode 
+2022-05-19 02:05:885 INFO  CheckOutPage :65 - click on continue Button[[ChromeDriver: chrome on WINDOWS (708046006901ce72a029caac173c1ca3)] -> xpath: //input[@id='continue']]
+2022-05-19 02:05:42 INFO  CheckOutPage :69 - Verify text for Thenkyou [[ChromeDriver: chrome on WINDOWS (708046006901ce72a029caac173c1ca3)] -> xpath: //button[@id='finish']]
